@@ -33,3 +33,4 @@ npm run build
 ```sh
 npm run lint
 ```
+### Demo: https://simple-movie-app-kappa.vercel.app/
